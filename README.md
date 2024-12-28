@@ -17,21 +17,10 @@ Welcome to my GitHub profile! I am an entry-level IT professional with a strong 
 - **Tools**: Android Studio, JSON Parsing, HTTP Libraries  
 
 ## 🌟 Projects
-### 1. **Online Question Paper Generator**  
-**Description**: A software solution for generating question papers effortlessly.  
-**Technologies**: Core Java, XML, Android Studio, PHP, SQLite  
+### 1. **Marvellous Restaurent Record App**  
+**Description**: A software solution for Restaurent Record.  
+**Technologies**: HTML, CSS, MEAN Stack  
 
-### 2. **Employee Management System**  
-**Description**: Streamlines employee data management with detailed workforce insights.  
-**Technologies**: Core Java, MySQL  
-
-### 3. **Weather Forecasting Application**  
-**Description**: Predicts weather conditions with data on temperature, humidity, and wind flow.  
-**Technologies**: JSON Parsing, JAVA HTTP Libraries  
-
-### 4. **Language Translator App**  
-**Description**: Converts text files between languages, with support for translating images.  
-**Technologies**: XML, Java, Android Studio  
 
 ## 🌱 Hobbies & Interests
 - 📚 **Coding and Programming**  
