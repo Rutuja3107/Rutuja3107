@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am an entry-level IT professional with a strong 
 - **Web Development**: HTML, CSS, MEAN Stack  
 - **Database Management**: MySQL  
 - **Object-Oriented Programming**: OOP principles  
-- **Tools**: Android Studio, JSON Parsing, HTTP Libraries  
+- **Tools**: Visual Studio Code, MysqlWork Bench  
 
 ## 🌟 Projects
 ### 1. **Marvellous Restaurent Record App**  
